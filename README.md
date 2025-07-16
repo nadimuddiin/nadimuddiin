@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @nadimuddiin
-- 👀 I’m interested in Software Quality Assurance(SQA)
-- 🌱 I’m currently learning Web Automation Testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-nadimuddiin/nadimuddiin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###💻 Md. Nadim Uddin
+🔍 Aspiring Software Quality Assurance (SQA) Engineer
+📚 Currently learning SQA principles, manual & automated testing, and tools like Selenium
+🚀 Passionate about building reliable software through efficient testing practices
+🌱 Always learning | 📊 Test Automation Enthusiast | 🔧 Problem Solver
+📍 Based in Bangladesh
