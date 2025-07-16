@@ -1,8 +1,19 @@
-###💻 Md. Nadim Uddin
--🔍 Aspiring Software Quality Assurance (SQA) Engineer
--📚 Currently learning SQA principles, manual & automated testing, and tools like Selenium
--🚀 Passionate about building reliable software through efficient testing practices
--🌱 Always learning |
--📊 Test Automation Enthusiast | 
--🔧 Problem Solver
--📍 Based in Bangladesh
+### Hi there 👋, My name is Md. Nadim Uddin
+#### Aspiring Software Quality Assurance (SQA) Engineer
+![Aspiring Software Quality Assurance (SQA) Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Hi! I'm Md. Nadim Uddin, an aspiring Software Quality Assurance (SQA) professional from Bangladesh. I'm currently learning the core concepts of software testing, including manual testing, test case design, and automated testing using tools like Selenium and Postman.
+
+I'm passionate about ensuring software quality by finding bugs early, improving user experience, and working closely with developers. My goal is to become a skilled SQA Engineer who contributes to building reliable, user-friendly, and high-performing applications.
+
+Skills: Manual Testing | Test Case Design & Execution | Bug Reporting | Selenium WebDriver | Postman (API Testing) | Basic Java
+
+- 🌱 I’m currently learning Web Automation 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nadimuddiin)  
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/nadimuddiin&show_icons=true)  
+
